@@ -1,2 +1,2 @@
-# Emre_Akg-l_20230305302HW2_Project
+# Emre_Akgul_20230305302_HW2_Project
 LibraryİnventorySystem
